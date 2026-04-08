@@ -25,7 +25,7 @@ For additional context, this behavioral filtering was performed to investigate A
 
 ---
 
-### 5. Velocity‑Gated Linear Strokes
+#### 5. Velocity‑Gated Linear Strokes
 ![Velocity-Gated Linear Strokes](assets/Figure_5.png)  
 
 ---
