@@ -2,7 +2,7 @@
 
 This data was collected from videos of individual rats in an open-field experimental setting to support work published in [eLife, 2023](https://doi.org/10.7554/eLife.80661).
 
-For additional context, this behavioral filtering was performed to investigate ACC place tuning of linearly opposing traversal paths taken during open field movement using OpenCV-based neural image processing **[`CaImAn`](https://github.com/flatironinstitute/caiman)** 
+For additional context, this behavioral filtering was performed to investigate ACC place tuning of linearly opposing traversal paths taken during open field movement using OpenCV-based neural image processing tool, **[`CaImAn`](https://github.com/flatironinstitute/caiman)** 
 
 ---
 
