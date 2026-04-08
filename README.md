@@ -11,7 +11,7 @@ For additional context, this behavioral filtering was performed to investigate A
 
 ---
 
-#### 2. Drift‑Free Trajectory Reconstruction
+#### 2. Smoothed Trajectory Reconstruction
 ![Drift-Free Trajectory Reconstruction](assets/Figure_8.png)  
 ---
 
